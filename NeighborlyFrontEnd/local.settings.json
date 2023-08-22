@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=storageaccountc2;AccountKey=H1ux8x88EfDk/efVKzJYVENYKIh85EfspWwqzYnvXG/OTE6Q3XIkUlAs6b4k1VwnZw4qzIQwhOpg+AStA2AT2w==",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=storageaccountc2;AccountKey=H1ux8x88EfDk/efVKzJYVENYKIh85EfspWwqzYnvXG/OTE6Q3XIkUlAs6b4k1VwnZw4qzIQwhOpg+AStA2AT2w==",
+    "WEBSITE_CONTENTSHARE": "c2neighborlywebappfa3c048e5657",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "8d9c3d45-a20b-47ca-9ced-5a7f8a46579e"
+  }
+}
